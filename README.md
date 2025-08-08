@@ -31,6 +31,4 @@ This project includes **data preprocessing**, **exploratory data analysis (EDA)*
 - `Flag` – Connection status
 - `Label` – Classification (Normal / Intrusion)
 
----
 
-## Project Structure
